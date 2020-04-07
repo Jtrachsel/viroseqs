@@ -4,7 +4,8 @@
 ### viroseqs db was obtained by installing ProphET and then converting the nucleotide tmp files into an abricate formatted database
   
  https://github.com/jaumlrc/ProphET  
-   
+
+#### I use this to detect phage genes in bacterial assemblies using abricate  
    
 ### Notes:
 1. I removed some seemingly redundant sequences.  These had the same accession but different lengths, I kept the longer of the two
